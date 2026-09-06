@@ -1,0 +1,9 @@
+# build
+target/
+*.class
+
+# IDE
+.idea/
+
+# личные решения Pavel'я (если появятся) — не публиковать
+**/solution/
